@@ -26,16 +26,18 @@ sidebar:
 
 ---
 
-# Ph.D. Program
-
-## <U>Dongkyu Kim</U> (Mar. 2021 ~ )
-* (2021~) Verification of a nonlinear Fokker-Planck-RMJ collision module
+# Combined M.S.-Ph.D. Program
 
 ## <U>Taeuk Moon</U> (Jul. 2021 ~ )
-* (2021~) Investigation of heating modules in GENE
+* (2021~) Mesh supprot for plasma simulation in Tokamak / Investigation of heating modules in GENE
 
 ## <U>Sungpil Yum</U> (Mar. 2022 ~ )
 * (2022~) Magnetic island simulation / Divertor simulation(IM-CDT)
+
+# Ph.D. Program
+
+## <U>Darian Victor Iulius Figuera Michal (Mar. 2023 ~ )
+* (2023~) Reserach for closure and POD with ML / Mesh support for plasma simulation in Tokamak
 
 ----
 
@@ -45,36 +47,49 @@ sidebar:
 * in [CPL](http://cpl.unist.ac.kr/), Department of Physics, UNIST
 * (2020~) Magnetic island simulation using GENE
 
-## <U>Geon Kim</U> (Mar. 2019 ~ )
-* in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
-* (2019~) Development of a code-package to estimate lifetime of neutron absorbers in spent fuel pool of nuclear power plant
+----
+
+# Postdoc Program in Collaboration
+
+## Kyu-Been Kwon<\U> (Jan. 2023 ~ )
+* Advisor of Divertor simulation(IM-CDT), SOLPS-ITER
 
 ----
 
 # Interns
 
-## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
-## <U>Hyungjun Noh</U> (Jan. 2022 ~ )
-## <U>Chan-Ju Park</U> (Jan. 2022 ~ )
-## <U>Dami Jung</U> (Mar. 2022 ~ )
+## Undergraduate research program
+### <U>Haluk Aksoy</U> (Sep. 2021 ~ )
+### <U>Hyungjun Noh</U> (Jan. 2022 ~ )
+### <U>Chan-Ju Park</U> (Jan. 2022 ~ )
+### <U>Dami Jung</U> (Mar. 2022 ~ )
+
+### DiTTo (Digital Twin Tokamak, UIRP 2023, Mar. 2023 ~ )
+### <U>Jihye Park</U> <br>
+### <U>Gitae Kim</U> <br>
+### <U>Juhyeok Son</U> <br>
 
 ----
 
 # Alumni
 
-## Postdoctor
-### <U>Sangil Choi</U>
-* **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
+## M.S. program
+### <U>Dongkyu Kim</U>
+* **Mar. 2021 ~ Feb. 2023** Master's degree, Verification of a nonlinear Fokker-Planck-RMJ collision module
 
 ----
 
-## NEUMA (NEUral plasMA, UIRP 2021, May. 2021 ~ Dec. 2021)
-<U>Jonghoon Byun</U> <br>
-<U>Ji-Seon Kim</U> <br>
-<U>Yunhui Kim</U> <br>
-<U>Hyun-Seop Lee</U> <br>
-<U>Hyungjun Noh</U> <br>
-<U>Chan-Ju Park</U> <br>
+## Ph.D. Program in Collaboration
+### <U>Geon Kim</U>
+* **Mar. 2019 ~ Feb. 2023** Ph.D. degree
+* in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
+* (2019~) Development of a code-package to estimate lifetime of neutron absorbers in spent fuel pool of nuclear power plant
+
+----
+
+## Postdoctor
+### <U>Sangil Choi</U>
+* **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
 
 ----
 
@@ -84,3 +99,10 @@ sidebar:
 <U>Seungwan Kang</U> (Mar. 2021 ~ Dec. 2021) <br>
 <U>Jisung Oh</U> (Jul. 2021 ~ Sep. 2021: Summer internship ) <br>
 <U>Sungpil Yum</U> (Oct. 2021 ~ Feb. 2022) <br>
+### NEUMA (NEUral plasMA, UIRP 2021, May. 2021 ~ Dec. 2021)
+<U>Jonghoon Byun</U> <br>
+<U>Ji-Seon Kim</U> <br>
+<U>Yunhui Kim</U> <br>
+<U>Hyun-Seop Lee</U> <br>
+<U>Hyungjun Noh</U> <br>
+<U>Chan-Ju Park</U> <br>
