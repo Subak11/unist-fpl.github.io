@@ -28,16 +28,13 @@ people:
           url: /people/#sungpil-yum-mar-2022--
    - title: Ph.D. Program in Collaboration
      url: /people/#phd-program-in-collaboration
+   - title: Postdoc Program in Collaboration
      children:
-        - title: Wonjun Tae ('18)
-          url: /people/#wonjun-tae-jun-2018--
-        - title: Geon Kim ('19)
-          url: /people/#geon-kim-mar-2019--
+        - title: Kyu-Been Kwon ('23)
+          url: /people/#kyubeen-kwon-Jan-2023--
    - title: Interns
      url: /people/#interns
      children:
-        - title: Haluk Aksoy ('21)
-          url: /people/#haluk-aksoy-sep-2021--
         - title: Hyungjun Noh ('22)
           url: /people/#hyungjun-noh-jan-2022--
         - title: Chan-Ju Park ('22)
@@ -46,6 +43,12 @@ people:
           url: /people/#dami-jung-mar-2022--
    - title: Alumni
      url: /people/#alumni
+        - title: Wonjun Tae ('18~'22)
+          url: /people/#wonjun-tae-jun-2018--
+        - title: Haluk Aksoy ('21~'22)
+          url: /people/#haluk-aksoy-sep-2021--
+        - title: Geon Kim ('19~'23)
+          url: /people/#geon-kim-mar-2019--
 
 research:
     - title: Research of Interests
